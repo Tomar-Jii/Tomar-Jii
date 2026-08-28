@@ -28,6 +28,16 @@
 
 ---
 
+### 🚀 Featured Projects
+
+| Project | Tech Stack | Description |
+| :--- | :--- | :--- |
+| **[osint-media-cache-analyzer](https://github.com/Tomar-Jii/osint-media-cache-analyzer)** | `Python` `OSINT` | Research tool for residual metadata & CDN caching analysis |
+| **[secure-authsim-core](https://github.com/Tomar-Jii/secure-authsim-core)** | `Python` `Security` | Security testing core for authorization simulations |
+| **[TeraBridge-api](https://github.com/Tomar-Jii/TeraBridge-api)** | `Python` `REST API` | Fast bridge & backend handler for data streams |
+
+---
+
 ### 📊 Streak & Activity Status
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tomar-Jii&theme=tokyonight&hide_border=true" width="90%" />
