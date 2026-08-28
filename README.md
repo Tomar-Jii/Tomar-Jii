@@ -1,51 +1,52 @@
 <div align="center">
 
-<!-- Futuristic Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,20&height=180&section=header&text=Aryan%20Tomar&fontSize=42&fontAlignY=38&desc=Full%20Stack%20%7C%20Cybersecurity%20%7C%20AI&descAlignY=58&descAlign=50" width="100%"/>
+<!-- Futuristic Top Animated Wave Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,20,24&height=220&section=header&text=ARYAN%20TOMAR&fontSize=52&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Cybersecurity%20Researcher%20%7C%20Tool%20Builder&descAlignY=58&descAlign=50" width="100%"/>
 
-<!-- Typing SVG -->
+<!-- Dynamic Cyberpunk Typing SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=20C20E&center=true&vCenter=true&width=450&lines=Full+Stack+Developer;Cybersecurity+Researcher;Building+Next-Gen+OSINT+Tools;Python+%26+TypeScript+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00F2FE&center=true&vCenter=true&width=550&lines=Full+Stack+Software+Developer;Cybersecurity+%26+OSINT+Researcher;Python+%26+TypeScript+Architect;Building+Scalable+Automated+Systems" alt="Typing SVG" />
 </a>
 
+<br/>
+
+<!-- Realtime Counter Badges -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Tomar-Jii&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/Tomar-Jii?label=Followers&style=flat-square&color=238636" alt="Followers" />
+  <img src="https://komarev.com/ghpvc/?username=Tomar-Jii&label=⚡%20PROFILE%20VIEWS&color=00d2ff&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-Building%20Cool%20Stuff-00f2fe?style=for-the-badge&logo=codewars&logoColor=white" />
+  <img src="https://img.shields.io/github/followers/Tomar-Jii?label=Followers&style=for-the-badge&color=238636" />
 </p>
 
 ---
 
-### 🛠️ Core Tech Stack & Tools
+### 💻 Core Tech Stack & Weapons
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,ts,js,nodejs,flask,linux,bash,git,github,docker,c,cpp,html,css,postman,vscode" />
+  </a>
 </p>
 
 ---
 
-### 🚀 Featured Projects
+### 🚀 Featured Repositories & Architectures
 
-| Project | Tech Stack | Description |
-| :--- | :--- | :--- |
-| **[osint-media-cache-analyzer](https://github.com/Tomar-Jii/osint-media-cache-analyzer)** | `Python` `OSINT` | Research tool for residual metadata & CDN caching analysis |
-| **[secure-authsim-core](https://github.com/Tomar-Jii/secure-authsim-core)** | `Python` `Security` | Security testing core for authorization simulations |
-| **[TeraBridge-api](https://github.com/Tomar-Jii/TeraBridge-api)** | `Python` `REST API` | Fast bridge & backend handler for data streams |
+| Repository | Focus | Tech Stack | Status |
+| :--- | :--- | :--- | :--- |
+| **[osint-media-cache-analyzer](https://github.com/Tomar-Jii/osint-media-cache-analyzer)** | Forensic & Metadata Inspection | `Python` `OSINT` | 🟢 Active |
+| **[secure-authsim-core](https://github.com/Tomar-Jii/secure-authsim-core)** | Authorization Attack Simulation | `Python` `Security` | 🟢 Active |
+| **[TeraBridge-api](https://github.com/Tomar-Jii/TeraBridge-api)** | High-Speed RESTful Stream Bridge | `Python` `Flask` | 🟢 Active |
+| **[website-](https://github.com/Tomar-Jii/website-)** | Interactive Web Client Interface | `TypeScript` `Web` | 🟢 Active |
 
 ---
 
-### 📊 Streak & Activity Status
+### 🔥 GitHub Continuous Coding Streak
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tomar-Jii&theme=tokyonight&hide_border=true" width="90%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tomar-Jii&theme=tokyonight&hide_border=true&border_radius=8" width="90%" />
 </p>
 
 ---
 
-### 🐍 Contribution Snake Eater
+### 🐍 Contribution Matrix Snake Eater
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tomar-Jii/Tomar-Jii/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Tomar-Jii/Tomar-Jii/output/github-contribution-grid-snake.svg">
@@ -54,17 +55,22 @@
 
 ---
 
-### 🌐 Connect & Collaborate
+### 🌐 Let's Connect & Build
 <p align="center">
   <a href="https://t.me/tomar_ji_99" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
+  &nbsp;
   <a href="https://website-beta-rose-83.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
+  &nbsp;
   <a href="mailto:maibatatahu1127@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
+
+<!-- Cyberpunk Bottom Wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,20,24&height=100&section=footer" width="100%"/>
 
 </div>
