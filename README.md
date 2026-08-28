@@ -3,7 +3,7 @@
 <!-- Futuristic Animated Header Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,20&height=180&section=header&text=Aryan%20Tomar&fontSize=42&fontAlignY=38&desc=Full%20Stack%20%7C%20Cybersecurity%20%7C%20AI&descAlignY=58&descAlign=50" width="100%"/>
 
-<!-- Typing Animation -->
+<!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=20C20E&center=true&vCenter=true&width=450&lines=Full+Stack+Developer;Cybersecurity+Researcher;Building+Next-Gen+OSINT+Tools;Python+%26+TypeScript+Enthusiast" alt="Typing SVG" />
 </a>
@@ -28,15 +28,10 @@
 
 ---
 
-### 📊 Activity & Streak Metrics
+### 📊 Streak & Top Languages
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Tomar-Jii&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tomar-Jii&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
-<!-- Dynamic Activity Graph -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tomar-Jii&theme=tokyo-night&hide_border=true&area=true" width="97%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tomar-Jii&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 ---
