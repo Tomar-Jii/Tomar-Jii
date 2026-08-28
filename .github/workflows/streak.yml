@@ -1,0 +1,22 @@
+name: Daily Streak Keeper
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+jobs:
+  commit:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v3
+      - name: Update daily log
+        run: |
+          date >> daily-streak.log
+          git config --global user.name "Tomar-Jii"
+          git config --global user.email "maibatatahu1127@gmail.com"
+          git add daily-streak.log
+          git commit -m "Auto streak update [skip ci]" || echo "No changes"
+          git push
