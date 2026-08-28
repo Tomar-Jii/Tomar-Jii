@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi 👋, I'm Aryan Tomar
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,20&height=200&section=header&text=Aryan%20Tomar&fontSize=45&fontAlignY=38&desc=Full%20Stack%20%7C%20Cybersecurity%20%7C%20AI&descAlignY=58&descAlign=50" width="100%"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=20C20E&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Cybersecurity+Enthusiast;Python+%26+Node.js+Dev;Open+Source+Builder" alt="Typing SVG" />
@@ -12,6 +12,11 @@
 
 ### 🏆 GitHub Trophies
 <img src="https://github-profile-trophy.vercel.app/?username=Tomar-Jii&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
+
+---
+
+### 🌐 3D Contribution Skyline
+<img src="https://raw.githubusercontent.com/Tomar-Jii/Tomar-Jii/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Profile Skyline" />
 
 ---
 
