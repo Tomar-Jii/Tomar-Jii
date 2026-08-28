@@ -1,16 +1,13 @@
 <div align="center">
 
-<!-- Futuristic Top Animated Wave Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,20,24&height=220&section=header&text=ARYAN%20TOMAR&fontSize=52&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Cybersecurity%20Researcher%20%7C%20Tool%20Builder&descAlignY=58&descAlign=50" width="100%"/>
 
-<!-- Dynamic Cyberpunk Typing SVG -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00F2FE&center=true&vCenter=true&width=550&lines=Full+Stack+Software+Developer;Cybersecurity+%26+OSINT+Researcher;Python+%26+TypeScript+Architect;Building+Scalable+Automated+Systems" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<!-- Realtime Counter Badges -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Tomar-Jii&label=⚡%20PROFILE%20VIEWS&color=00d2ff&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Status-Building%20Cool%20Stuff-00f2fe?style=for-the-badge&logo=codewars&logoColor=white" />
@@ -70,7 +67,6 @@
   </a>
 </p>
 
-<!-- Cyberpunk Bottom Wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,20,24&height=100&section=footer" width="100%"/>
 
 </div>
