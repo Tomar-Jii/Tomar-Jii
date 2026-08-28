@@ -28,10 +28,9 @@
 
 ---
 
-### 📊 Streak & Top Languages
+### 📊 Streak & Activity Status
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tomar-Jii&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tomar-Jii&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tomar-Jii&theme=tokyonight&hide_border=true" width="90%" />
 </p>
 
 ---
